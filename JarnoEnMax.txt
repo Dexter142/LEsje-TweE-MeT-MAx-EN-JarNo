@@ -1,3 +1,7 @@
 Hoi wij gaan werken
 
+<<<<<<< HEAD
 jarno is echt super maar mijn bril is vies
+=======
+kanker max
+>>>>>>> parent of 39d67ba... Update JarnoEnMax.txt
